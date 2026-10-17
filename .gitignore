@@ -1,0 +1,23 @@
+# Everything is ignored except the paths allowed below.
+*
+
+!/.gitignore
+!/LICENSE.txt
+!/README.md
+!/addon.xml
+!/changelog.txt
+!/default.py
+!/pyproject.toml
+!/pytest.ini
+
+!/resources/
+!/resources/**
+
+!/tests/
+!/tests/conftest.py
+!/tests/unit/
+!/tests/unit/**
+
+# Never, even inside the allowed folders.
+__pycache__/
+*.py[cod]

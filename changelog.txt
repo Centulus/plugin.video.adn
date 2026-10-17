@@ -1,0 +1,5 @@
+v0.1.0 (2026.10.17)
+- Première version : navigation (Reprendre, Ma liste, Pour vous, Catalogue, Recherche, séries et saisons)
+- Connexion avec code 2FA, choix du profil, déconnexion
+- Lecture HLS avec sous-titres, reprise à la position ADN et suivi de progression synchronisé
+- Épisodes de la saison enchaînés en playlist

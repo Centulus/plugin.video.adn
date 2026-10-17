@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings version="1">
+    <section id="plugin.video.adn">
+        <category id="playback" label="30210" help="">
+            <group id="1" label="30210">
+                <setting id="preferred_language" type="string" label="30020" help="">
+                    <level>0</level>
+                    <default>follow</default>
+                    <constraints>
+                        <options>
+                            <option label="30112">follow</option>
+                            <option label="30110">vostf</option>
+                            <option label="30111">vf</option>
+                        </options>
+                    </constraints>
+                    <control type="list" format="string"><heading>30020</heading></control>
+                </setting>
+                <setting id="preferred_quality" type="string" label="30021" help="">
+                    <level>0</level>
+                    <default>follow</default>
+                    <constraints>
+                        <options>
+                            <option label="30112">follow</option>
+                            <option label="30113">auto</option>
+                            <option label="30114">fhd</option>
+                            <option label="30115">hd</option>
+                            <option label="30116">sd</option>
+                        </options>
+                    </constraints>
+                    <control type="list" format="string"><heading>30021</heading></control>
+                </setting>
+            </group>
+            <group id="2" label="30230">
+                <setting id="adn_username" type="string"><level>4</level><default/>
+                    <constraints><allowempty>true</allowempty></constraints>
+                    <control type="edit" format="string"><heading>30230</heading></control>
+                    <visible>false</visible>
+                </setting>
+                <setting id="access_token" type="string"><level>4</level><default/>
+                    <constraints><allowempty>true</allowempty></constraints>
+                    <control type="edit" format="string"><heading>30230</heading><hidden>true</hidden></control>
+                    <visible>false</visible>
+                </setting>
+                <setting id="refresh_token" type="string"><level>4</level><default/>
+                    <constraints><allowempty>true</allowempty></constraints>
+                    <control type="edit" format="string"><heading>30230</heading><hidden>true</hidden></control>
+                    <visible>false</visible>
+                </setting>
+                <setting id="profile_id" type="string"><level>4</level><default>1</default>
+                    <constraints><allowempty>true</allowempty></constraints>
+                    <control type="edit" format="string"><heading>30230</heading></control>
+                    <visible>false</visible>
+                </setting>
+                <setting id="profile_name" type="string"><level>4</level><default/>
+                    <constraints><allowempty>true</allowempty></constraints>
+                    <control type="edit" format="string"><heading>30230</heading></control>
+                    <visible>false</visible>
+                </setting>
+                <setting id="age_category" type="string"><level>4</level><default>18</default>
+                    <constraints><allowempty>true</allowempty></constraints>
+                    <control type="edit" format="string"><heading>30230</heading></control>
+                    <visible>false</visible>
+                </setting>
+            </group>
+        </category>
+        <category id="interface" label="30220" help="">
+            <group id="1" label="30220">
+                <setting id="ui_language" type="string" label="30022" help="30023">
+                    <level>0</level>
+                    <default>fr</default>
+                    <constraints>
+                        <options>
+                            <option label="30117">fr</option>
+                            <option label="30118">en</option>
+                        </options>
+                    </constraints>
+                    <control type="list" format="string"><heading>30022</heading></control>
+                </setting>
+            </group>
+        </category>
+    </section>
+</settings>

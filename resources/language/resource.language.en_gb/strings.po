@@ -1,0 +1,217 @@
+# Kodi Media Center language file
+# Addon Name: ADN
+# Addon id: plugin.video.adn
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.video.adn
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"Language: en_GB
+"
+"Plural-Forms: nplurals=2; plural=(n != 1);
+"
+
+# Settings
+
+msgctxt "#30020"
+msgid "Default language"
+msgstr "Default language"
+
+msgctxt "#30021"
+msgid "Default quality"
+msgstr "Default quality"
+
+msgctxt "#30022"
+msgid "Menu language"
+msgstr "Menu language"
+
+msgctxt "#30023"
+msgid "Language of the add-on menus and messages. ADN content (titles, genres, summaries) stays in French."
+msgstr "Language of the add-on menus and messages. ADN content (titles, genres, summaries) stays in French."
+
+msgctxt "#30110"
+msgid "Original (VOSTFR)"
+msgstr "Original (VOSTFR)"
+
+msgctxt "#30111"
+msgid "French dub (VF)"
+msgstr "French dub (VF)"
+
+msgctxt "#30112"
+msgid "Follow ADN profile"
+msgstr "Follow ADN profile"
+
+msgctxt "#30113"
+msgid "Auto"
+msgstr "Auto"
+
+msgctxt "#30114"
+msgid "1080p"
+msgstr "1080p"
+
+msgctxt "#30115"
+msgid "720p"
+msgstr "720p"
+
+msgctxt "#30116"
+msgid "480p"
+msgstr "480p"
+
+msgctxt "#30117"
+msgid "Français"
+msgstr "Français"
+
+msgctxt "#30118"
+msgid "English"
+msgstr "English"
+
+msgctxt "#30210"
+msgid "Playback"
+msgstr "Playback"
+
+msgctxt "#30220"
+msgid "Interface"
+msgstr "Interface"
+
+msgctxt "#30230"
+msgid "Session"
+msgstr "Session"
+
+# Menus and messages
+
+msgctxt "#30100"
+msgid "Resume"
+msgstr "Resume"
+
+msgctxt "#30101"
+msgid "My list"
+msgstr "My list"
+
+msgctxt "#30102"
+msgid "For you"
+msgstr "For you"
+
+msgctxt "#30103"
+msgid "Search"
+msgstr "Search"
+
+msgctxt "#30104"
+msgid "Catalogue"
+msgstr "Catalogue"
+
+msgctxt "#30105"
+msgid "Change profile"
+msgstr "Change profile"
+
+msgctxt "#30106"
+msgid "Recommended for you"
+msgstr "Recommended for you"
+
+msgctxt "#30107"
+msgid "Because you watched"
+msgstr "Because you watched"
+
+msgctxt "#30109"
+msgid "Sign out"
+msgstr "Sign out"
+
+msgctxt "#30120"
+msgid "Login failed"
+msgstr "Login failed"
+
+msgctxt "#30121"
+msgid "Code sent to %s"
+msgstr "Code sent to %s"
+
+msgctxt "#30123"
+msgid "Signed out"
+msgstr "Signed out"
+
+msgctxt "#30124"
+msgid "Add to My list"
+msgstr "Add to My list"
+
+msgctxt "#30125"
+msgid "Remove from My list"
+msgstr "Remove from My list"
+
+msgctxt "#30126"
+msgid "Added to My list"
+msgstr "Added to My list"
+
+msgctxt "#30127"
+msgid "Removed from My list"
+msgstr "Removed from My list"
+
+msgctxt "#30128"
+msgid "Profile: %s"
+msgstr "Profile: %s"
+
+msgctxt "#30130"
+msgid "Sign in"
+msgstr "Sign in"
+
+msgctxt "#30131"
+msgid "ADN email or username"
+msgstr "ADN email or username"
+
+msgctxt "#30132"
+msgid "ADN password"
+msgstr "ADN password"
+
+msgctxt "#30133"
+msgid "Wrong email or password. Try again?"
+msgstr "Wrong email or password. Try again?"
+
+msgctxt "#30134"
+msgid "Wrong code. Try again?"
+msgstr "Wrong code. Try again?"
+
+msgctxt "#30135"
+msgid "Signed in as %s"
+msgstr "Signed in as %s"
+
+msgctxt "#30136"
+msgid "Go to series"
+msgstr "Go to series"
+
+msgctxt "#30137"
+msgid "Go to season"
+msgstr "Go to season"
+
+msgctxt "#30138"
+msgid "Who's watching?"
+msgstr "Who's watching?"
+
+msgctxt "#30139"
+msgid "Sign out of ADN on this device?"
+msgstr "Sign out of ADN on this device?"
+
+msgctxt "#30140"
+msgid "Enter the code you received"
+msgstr "Enter the code you received"
+
+msgctxt "#30141"
+msgid "Current profile: %s"
+msgstr "Current profile: %s"
+
+msgctxt "#30142"
+msgid "Ends the ADN session on this device."
+msgstr "Ends the ADN session on this device."
+
+msgctxt "#30143"
+msgid "Sign in with your ADN account."
+msgstr "Sign in with your ADN account."
+
+msgctxt "#30144"
+msgid "This video cannot be played"
+msgstr "This video cannot be played"
+
+msgctxt "#30145"
+msgid "Resumes at %s"
+msgstr "Resumes at %s"
