@@ -1,6 +1,7 @@
 # Everything is ignored except the paths allowed below.
 *
 
+!/.gitattributes
 !/.gitignore
 !/LICENSE.txt
 !/README.md
